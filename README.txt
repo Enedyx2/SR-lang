@@ -12,7 +12,7 @@ Instructions for editing existing language files:
 
 - Have a GitHub account.
 - Fork this repository to your computer (aka clone). It’s easier if you use the GitHub Desktop app on computer.
-- Edit the language files.
+- Edit the lang file (do not touch the id on the left of the "=").
 - Create a pull request. Your changes will be reviewed before being merged.
 
 Instructions for adding a new language:
@@ -21,6 +21,7 @@ Instructions for adding a new language:
 - Fork this repository to your computer (aka clone). It’s easier if you use the GitHub Desktop app on computer.
 - Copy the en_US language file and rename it according to the new language (see the list below).
 - Add the new language to the languages.json file.
+- Edit the lang file (do not touch the id on the left of the "=").
 - Create a pull request. Your changes will be reviewed before being merged.
 
 List of language files:

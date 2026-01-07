@@ -304,8 +304,6 @@ entity.edx:bomb.name=Bomb
 
 entity.edx:firebomb.name=Firebomb
 
-item.edx:fireball_wand=Fireball Wand
-
 entity.edx:fireball.name=Fireball
 
 entity.edx:skeleton_wolf.name=Skeleton Wolf
@@ -402,8 +400,6 @@ tile.edx:volcano_stone_wall.name=Volcano Stone Wall
 tile.edx:void_crystal_ore.name=Void Crystal Ore
 
 tile.edx:end_crystal_ore.name=End Crystal Ore
-
-tile.edx:chorus_leaves.name=Chorus Leaves
 
 tile.edx:shulk_leaves.name=Shulk Leaves
 
@@ -512,40 +508,6 @@ item.spawn_egg.entity.edx:brute_zombie.name=Spawn Brute Zombie
 tile.edx:artifact_assembler.name=Artifact Assembler
 
 item.edx:spawner_fragment=Spawner Fragment
-
-tile.edx:big_chorus_base.name=Big Chorus Pore
-
-tile.edx:big_chorus_pore1.name=Big Chorus Pore
-
-tile.edx:big_chorus_pore2.name=Big Chorus Pore
-
-tile.edx:big_chorus_pore3.name=Big Chorus Pore
-
-tile.edx:big_chorus_pore4.name=Big Chorus Pore
-
-tile.edx:big_chorus_pore5.name=Big Chorus Pore
-
-tile.edx:big_chorus_pore6.name=Big Chorus Pore
-
-tile.edx:big_chorus_pore7.name=Big Chorus Pore
-
-tile.edx:big_chorus_pore8.name=Big Chorus Pore
-
-tile.edx:big_chorus_pore9.name=Big Chorus Pore
-
-tile.edx:big_chorus_pore10.name=Big Chorus Pore
-
-tile.edx:big_chorus_pore11.name=Big Chorus Pore
-
-tile.edx:big_chorus_pore12.name=Big Chorus Pore
-
-tile.edx:big_chorus_pore13.name=Big Chorus Pore
-
-tile.edx:big_chorus_pore14.name=Big Chorus Pore
-
-tile.edx:big_chorus_pore15.name=Big Chorus Pore
-
-tile.edx:big_chorus_pore16.name=Big Chorus Pore
 
 entity.edx:eaten_enderman.name=Eaten Enderman
 
